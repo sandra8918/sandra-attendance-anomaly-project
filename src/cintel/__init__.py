@@ -1,4 +1,11 @@
-"""cintel package.
+(
+    """
+Employee Attendance Anomalies
+
+Author: Sandra Otubushin
+Date: 2026-10
+"""
+    """cintel package.
 
 This file can be left empty; it just has to exist.
 
@@ -10,3 +17,4 @@ Files and variables with double underscores ("dunders")
 like __init__.py or the variable __name__
 have special meanings in Python.
 """
+)
