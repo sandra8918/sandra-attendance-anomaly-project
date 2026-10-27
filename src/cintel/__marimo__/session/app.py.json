@@ -1,0 +1,71 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.2",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "dd0292f12eb8949f050a14094301b3a2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"employee-attendance-anomaly-detection\">Employee Attendance Anomaly Detection</h1>\n<span class=\"paragraph\">This app identifies employee attendance records that may need review.</span>\n<span class=\"paragraph\">Use the controls below to adjust the anomaly thresholds.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "9ef4d1e839a8e26d5743f7569f9c3bbe",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "309e3b93682e60bb9ce61801941e07b4",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "f1519fa8be722ba1a80f59d34f5812bc",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "6083c83a13cabd85a407334091ea14ec",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "5119de829633f59ebb43d9089526a3fa",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "f752fa4bfe20e2620912214f2b071782",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"interpretation\">Interpretation</h2>\n<span class=\"paragraph\">A flagged record is a signal for review. It does not automatically\nindicate a policy violation.</span>\n<span class=\"paragraph\"><a href=\"https://sandra8918.github.io/sandra-attendance-anomaly-project/\" rel=\"noopener noreferrer\" target=\"_blank\">View the project documentation</a></span></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

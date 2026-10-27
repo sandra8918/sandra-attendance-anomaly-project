@@ -1,0 +1,9 @@
+employee_id,employee_name,department,scheduled_hours,worked_hours,late_days,absence_days
+E001,Amina Johnson,Finance,40,40,0,0
+E002,David Smith,IT,40,32,2,1
+E003,Maria Lopez,HR,40,20,5,3
+E004,James Brown,Marketing,40,39,1,0
+E005,Olivia Davis,Operations,40,28,4,2
+E006,Noah Wilson,Finance,40,40,0,0
+E007,Sophia Miller,IT,40,35,3,0
+E008,Liam Anderson,HR,40,10,6,4
