@@ -140,7 +140,7 @@ def main() -> None:
     # for exactly how that filter is built.
     anomalies_df: pl.DataFrame = detect_clinic_anomalies(
         df,
-        max_age_years=MAX_REASONABLE_X_VALUE,
+        max_age_years=14,
         max_height_inches=MAX_REASONABLE_Y_VALUE,
     )
 
